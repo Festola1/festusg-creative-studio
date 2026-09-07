@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[3419,["78","static/chunks/78-96a0489d7f1e0785.js","464","static/chunks/464-d9562feb53150f32.js","281","static/chunks/app/portfolio/page-3971fe17355313a6.js"],"PageHero"]
-3:I[6414,["78","static/chunks/78-96a0489d7f1e0785.js","464","static/chunks/464-d9562feb53150f32.js","281","static/chunks/app/portfolio/page-3971fe17355313a6.js"],"PortfolioGallery"]
-4:I[3419,["78","static/chunks/78-96a0489d7f1e0785.js","464","static/chunks/464-d9562feb53150f32.js","281","static/chunks/app/portfolio/page-3971fe17355313a6.js"],"CTA"]
+2:I[3419,["78","static/chunks/78-96a0489d7f1e0785.js","464","static/chunks/464-d9562feb53150f32.js","281","static/chunks/app/portfolio/page-200d5a40978a9bd9.js"],"PageHero"]
+3:I[6414,["78","static/chunks/78-96a0489d7f1e0785.js","464","static/chunks/464-d9562feb53150f32.js","281","static/chunks/app/portfolio/page-200d5a40978a9bd9.js"],"PortfolioGallery"]
+4:I[3419,["78","static/chunks/78-96a0489d7f1e0785.js","464","static/chunks/464-d9562feb53150f32.js","281","static/chunks/app/portfolio/page-200d5a40978a9bd9.js"],"CTA"]
 5:I[484,[],"OutletBoundary"]
 6:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","$L2",null,{"label":"Selected work","title":"Ideas Turned Into","accent":"Visual Experiences","copy":"Explore creative directions across websites, campaigns, celebrations and digital content."}],["$","section",null,{"className":"section section-shell","children":["$","$L3",null,{}]}],["$","$L4",null,{}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2sgZ5OrbdsDYfLorqFll9"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","$L2",null,{"label":"Selected work","title":"Ideas Turned Into","accent":"Visual Experiences","copy":"Explore creative directions across websites, campaigns, celebrations and digital content."}],["$","section",null,{"className":"section section-shell","children":["$","$L3",null,{}]}],["$","$L4",null,{}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7GcIdqGhGHL6bavof72Wt"}
 7:null

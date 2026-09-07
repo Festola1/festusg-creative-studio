@@ -1,3 +1,3 @@
-:HL["/festusg-creative-studio/_next/static/css/0db7044bda51d740.css","style"]
+:HL["/festusg-creative-studio/_next/static/css/9417adbb1f1a8b8c.css","style"]
 :HL["/festusg-creative-studio/festusg-studio-green.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"2sgZ5OrbdsDYfLorqFll9"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7GcIdqGhGHL6bavof72Wt"}
