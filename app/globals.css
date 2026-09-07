@@ -30,4 +30,7 @@ footer{padding-top:0}
 .footer-intro{display:flex;align-items:center;justify-content:space-between;gap:32px;padding-block:54px;border-bottom:1px solid var(--border);margin-bottom:56px}
 .footer-intro span{display:block;color:#607362;font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;margin-bottom:10px}
 .footer-intro h2{font-size:clamp(28px,3.5vw,44px);line-height:1.08;letter-spacing:-.04em;margin:0;max-width:650px}
+.project-image img{position:absolute;inset:0;display:block;width:100%;height:100%!important;max-width:none;object-fit:cover;object-position:center;filter:none!important}
+.project-image:after{background:linear-gradient(180deg,transparent 72%,rgba(7,24,13,.32))}
+.modal-image{position:relative;overflow:hidden}.modal-image img{position:absolute;inset:0;display:block;width:100%;height:100%!important;object-fit:cover;filter:none!important}
 @media(max-width:660px){.footer-intro{align-items:flex-start;flex-direction:column;padding-block:40px;margin-bottom:42px}.footer-intro .button{width:100%}}
