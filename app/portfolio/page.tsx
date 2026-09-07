@@ -1,0 +1,3 @@
+import type { Metadata } from "next";import { CTA, PageHero } from "@/components/festusg-shell";import { PortfolioGallery } from "@/components/portfolio-gallery";
+export const metadata:Metadata={title:"Creative Portfolio | FestusG",description:"Explore selected FestusG websites, flyers, posters, AI videos, invitations and social media designs."};
+export default function Portfolio(){return <main><PageHero label="Selected work" title="Ideas Turned Into" accent="Visual Experiences" copy="Explore creative directions across websites, campaigns, celebrations and digital content."/><section className="section section-shell"><PortfolioGallery/></section><CTA/></main>}
