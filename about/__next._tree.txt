@@ -1,0 +1,3 @@
+:HL["/festusg-creative-studio/_next/static/css/5ead3e75e02cb9fd.css","style"]
+:HL["/festusg-creative-studio/festusg-studio-green.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"MqHvHhR7illq_wLME0qh-"}
